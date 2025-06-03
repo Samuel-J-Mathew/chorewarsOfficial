@@ -392,7 +392,7 @@ For more detailed instructions, refer to the full setup guides below.
 
 1. Clone the ChoreWars repository using Git:
    ```
-   git clone https://github.com/ninjinodkhuu/chorewars.git
+   git clone https://github.com/Samuel-J-Mathew/chorewarsOfficial
    ```
 
 2. Navigate to the project directory:
