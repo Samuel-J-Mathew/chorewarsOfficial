@@ -585,4 +585,6 @@ The ChoreWars app uses Firebase for authentication and data storage. Follow thes
 - [Flutter & Firebase Guide](https://firebase.google.com/docs/flutter/setup)
 
 ---
-
+![chorewarshome](https://github.com/user-attachments/assets/5f2663e7-40cd-40e8-9bab-f2fa3566d866)
+![budgetchorewars](https://github.com/user-attachments/assets/4d099b12-47a0-44a7-90d3-7809f60fb6f4)
+![shoppintpagechoraewars](https://github.com/user-attachments/assets/e13169af-2cdf-44ce-a15b-b22085d58955)
