@@ -586,4 +586,3 @@ The ChoreWars app uses Firebase for authentication and data storage. Follow thes
 
 ---
 
-For any other issues or questions, please contact the ChoreWars development team.
